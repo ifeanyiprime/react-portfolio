@@ -90,7 +90,7 @@ export default function Home() {
             </p>
           </div>
           <div className="lg:flex lg:gap-10 dark:text-white">
-            <div className="text-center shadow-lg shadow-teal-900 p-10 rounded-xl my-10">
+            <div className="text-center shadow-lg dark:shadow-teal-900 p-10 rounded-xl my-10">
               <Image
                 className="mx-auto"
                 src={design}
@@ -104,7 +104,7 @@ export default function Home() {
               <p className="text-gray-200 py-1">Illustrator</p>
               <p className="text-gray-200 py-1">Figma</p>
             </div>
-            <div className="text-center shadow-lg shadow-teal-900 p-10 rounded-xl my-10">
+            <div className="text-center shadow-lg dark:shadow-teal-900 p-10 rounded-xl my-10">
               <Image
                 className="mx-auto"
                 src={code}
@@ -118,7 +118,7 @@ export default function Home() {
               <p className="text-gray-200 py-1">Illustrator</p>
               <p className="text-gray-200 py-1">Figma</p>
             </div>
-            <div className="text-center shadow-lg shadow-teal-900 p-10 rounded-xl my-10">
+            <div className="text-center shadow-lg dark:shadow-teal-900 p-10 rounded-xl my-10">
               <Image
                 className="mx-auto"
                 src={consulting}
